@@ -1,12 +1,12 @@
-package udemyQuestoes;
+package program;
 
 import java.util.Scanner;
 
 public class MainProgram {
 
 	public static void main(String[] args) {
-		// Intancia a nao pesistência de produto
-		Product produto = new Product("Pipoca Karitó");
+		// Intancia a nao pesistÃªncia de produto
+		Product produto = new Product("Pipoca KaritÃ³");
 		// Addiciona a quantidade de produtos
 		produto.setQuantidadeEstoque(2000);
 		// Addiciona valor
