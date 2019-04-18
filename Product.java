@@ -1,4 +1,4 @@
-package udemyQuestoes;
+package entidade;
 
 public class Product {
 	private String name;
